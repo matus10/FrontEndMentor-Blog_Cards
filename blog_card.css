@@ -103,7 +103,7 @@ html, body {
     font-weight: 500;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
  
     html,body {
         padding:0;
